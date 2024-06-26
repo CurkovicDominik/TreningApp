@@ -1,0 +1,77 @@
+.kartica
+{
+    width:14%;
+    height:550px;
+    text-align: center;
+    border: 3px solid rgb(20, 20, 20);
+    background-color: rgb(93, 105, 184);
+   
+    color: azure;
+}
+.kartica-header
+{
+   /* width:100%;*/
+        padding: 25px;
+        text-align: center;
+        background-color: rgb(58, 45, 131);
+       
+        box-shadow: 200px;
+        font-size: 20px;
+}
+.kartica-body
+{
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+.kartica-container
+{
+    display: flex;
+}
+.buttonAdd
+{
+    margin-top:-50px;
+    color: white;
+    border-radius: 0px;
+    font-size: 80px;
+    border:none;
+    background-color: rgba(0, 0, 0, 0.671);
+    padding: 30px;
+    width:80%;
+}
+.buttonAdd:hover
+{
+    background-color: aliceblue;
+    font-size: 85px;
+}
+.buttonAdd:active
+{
+    background-color: rgb(20, 20, 20);
+    color: #ffffff;
+}
+.kalendar
+{
+    margin: 00px auto;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    width:70%;
+    box-shadow: 10px 10px 8px black;
+}
+.buttonClear
+{
+    margin-top: 100px;
+    color: white;
+    border-radius: 5px;
+    font-size: 30px;
+    border:none;
+    background-color: rgba(0, 0, 0, 0.671);
+    padding: 10px;
+}
+.buttonClear:hover
+{
+   background-color: aliceblue;
+}

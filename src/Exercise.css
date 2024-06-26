@@ -1,0 +1,123 @@
+.one-exercise
+{
+    width:90%;
+    border: 2px solid black;
+    display: flex;
+    margin: 10px auto;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+          background-color: rgb(24, 28, 53);
+}
+.one-exercise:hover
+
+{
+    background-color: rgb(24, 28, 53);
+    color:rgba(226, 226, 226, 0.877);
+    border:2px solid white;
+}
+.one-exercise-clicked
+{
+    background-color: rgb(206, 201, 235);
+    color:rgba(31, 31, 31, 0.877);
+}
+.ex-list
+{
+    list-style-type: none;
+    padding: 0;
+}
+.ex-modal
+{
+position:absolute;
+left: 45%;
+width:500px;
+z-index: 1000;
+background-color: rgb(24, 28, 53);
+
+    border: 5px solid white;
+padding: 10px;
+color: aliceblue;
+}
+.but
+{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    border: 2px solid black;
+}
+.but:hover
+{
+    background-color: rgb(209, 209, 209);
+    color: rgb(15, 15, 15);
+    padding: 15px;
+    border: 2px solid black;
+}
+.checker-za-dann:hover
+{
+   background-color: black;
+}
+.checker-za-dann
+{
+}
+.checker-za-dan
+{
+    width:50px;
+    height:auto;
+    background: none;
+    border:none;
+}.checker-za-dann
+{
+    padding: 0;
+    width:50px;
+    height:auto;
+    background: none;
+    border:none;
+}
+.ex-za-dan
+{
+    display: flex;
+    gap:20px;
+}
+.vjezba-za-dan
+{
+    width:50px;
+    max-width:75px ;
+    min-width: 50px;
+}
+.eq-za-dan
+{
+    width:50px;
+    max-width:50px ;
+}
+.sets-za-dan
+{
+    width:50px;
+    max-width:50px ;
+}
+.setss-za-dan
+{
+    max-width:50px ;
+
+    padding: 5px;
+    background-color: black;
+    color: antiquewhite;
+    border: 1px solid white;
+}
+.reps-za-dan
+{
+    width:50px;
+    max-width:50px ;
+}
+.weight-za-dan
+{
+    width:50px;
+    max-width:50px ;
+}
+.ex-za-dan
+{
+    padding: 20px;
+    border-bottom:2px solid black;
+
+}

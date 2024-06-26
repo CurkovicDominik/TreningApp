@@ -1,0 +1,38 @@
+.forma
+{
+    background-color: rgb(24, 28, 53);
+    padding: 25px;
+    color: azure;
+    width: 550px;
+    margin: 100px auto;
+}
+.inputs
+{
+    width:90%;
+    padding: 20px;
+}
+.but
+{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    border: 2px solid black;
+}
+.but:hover
+{
+    background-color: rgb(209, 209, 209);
+    color: rgb(15, 15, 15);
+    padding: 15px;
+    border: 2px solid black;
+}
+.but:active
+{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    border: 2px solid black;
+}
+a:link,a:visited
+{
+    color: aliceblue;
+}
