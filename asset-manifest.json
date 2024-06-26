@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TreningApp/static/css/main.ff9d403c.css",
+    "main.js": "/TreningApp/static/js/main.0db64c8d.js",
+    "static/js/453.95cdbd14.chunk.js": "/TreningApp/static/js/453.95cdbd14.chunk.js",
+    "static/media/logo.svg": "/TreningApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TreningApp/index.html",
+    "main.ff9d403c.css.map": "/TreningApp/static/css/main.ff9d403c.css.map",
+    "main.0db64c8d.js.map": "/TreningApp/static/js/main.0db64c8d.js.map",
+    "453.95cdbd14.chunk.js.map": "/TreningApp/static/js/453.95cdbd14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9d403c.css",
+    "static/js/main.0db64c8d.js"
+  ]
+}
